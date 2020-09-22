@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Almir\Documents\VuGen\Scripts\PurchaseFulll
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\almir\documents\vugen\scripts\purchasefulll\\logfile.log
+c:\users\almir\documents\vugen\scripts\purchasefulll\\combined_PurchaseFulll.c
+c:\users\almir\documents\vugen\scripts\purchasefulll\\pre_cci.c

@@ -1,0 +1,37 @@
+function voteupdownVote(argThis, modelType, modelId, targetUserId)
+{
+    console.log(argThis);
+    $.ajax({
+        method: 'post',
+        url: '/voteupdown/vote',
+        data: {
+            modelType: modelType,
+            modelId: modelId,
+            targetUserId: targetUserId
+        },
+        cache: false,
+        dataType: 'json',
+        success: $.proxy(function(data, status) {
+            console.log(data);
+            if (data.error == 1) {
+                console.log("ERROR: " + data.message);
+                return;
+            }
+            totalLikesValueElem = $(argThis).next(".totalLikes").children("span.value").first();
+            totalLikes = parseInt(totalLikesValueElem.text());
+
+            if (data.value == 0) {
+                totalLikes--;
+            } else if (data.value == 1) {
+                totalLikes++;
+            }
+
+            $(argThis).toggleClass("empty");
+
+            if (totalLikes > 0)
+                totalLikes = "+" + totalLikes;
+            totalLikesValueElem.text(totalLikes);
+        }, argThis),
+    }); 
+    return false;
+}

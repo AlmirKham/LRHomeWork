@@ -1,0 +1,6 @@
+Error: CCI compilation error -c:\users\almir\appdata\local\temp\brr_rre.766\global_dir\39000337\pre_cci.c: Action.c:319: warning: expression with no effect elided.	[MsgId: MERR-19799]
+Error: CCI compilation error -c:\users\almir\appdata\local\temp\brr_rre.766\global_dir\39000337\pre_cci.c: Action.c:319: error: syntax error; found `return' expecting `;'.	[MsgId: MERR-19799]
+Error: CCI compilation error -c:\users\almir\appdata\local\temp\brr_rre.766\global_dir\39000337\pre_cci.c: c:\\users\\almir\\appdata\\local\\temp\\brr_rre.766\\global_dir\\39000337\\combined_PurchaseFulll.c:6: error: 1 errors, not writing pre_cci.ci.	[MsgId: MERR-19799]
+Error: Vuser compilation failed. Please set CCIDebug to Off in CCI section of mdrv.dat file.	[MsgId: MERR-19797]
+Warning: Extension cciext.dll reports error -19797 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

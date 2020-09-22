@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Almir\Documents\VuGen\Scripts\CancelReservation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\almir\documents\vugen\scripts\cancelreservation\\logfile.log
+c:\users\almir\documents\vugen\scripts\cancelreservation\\combined_CancelReservation.c
+c:\users\almir\documents\vugen\scripts\cancelreservation\\pre_cci.c

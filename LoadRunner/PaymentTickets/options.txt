@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Almir\Documents\VuGen\Scripts\PaymentTickets
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\almir\documents\vugen\scripts\paymenttickets\\logfile.log
+c:\users\almir\documents\vugen\scripts\paymenttickets\\combined_PaymentTickets.c
+c:\users\almir\documents\vugen\scripts\paymenttickets\\pre_cci.c

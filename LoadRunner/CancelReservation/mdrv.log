@@ -1,0 +1,2999 @@
+Action.c(161):     <label><input type="checkbox" name="109" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-83875-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="110" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-84684-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="111" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-85453-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="112" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490659302-861627-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 780 leaves Seattle  for Sydney.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="113" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490659302-869320-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 780 leaves Seattle  for Sydney.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="114" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-87721-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="115" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-88491-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="116" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-89260-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="117" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-90029-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161): t=25235ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25235ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25235ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25236ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="118" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-90828-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="119" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-91597-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="120" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="4905780-9236-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 75 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 560 leaves Portland  for San Francisco.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="121" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="4905780-9313-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 75 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 560 leaves Portland  for San Francisco.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="122" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490700039-938544-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1073 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 890 leaves Sydney  for Zurich.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="123" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490700039-946236-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1073 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 890 leaves Sydney  for Zurich.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="124" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-95440-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="125" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-96209-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="126" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-96978-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="127" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-97747-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="128" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-98521-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161): t=25277ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25278ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25278ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25278ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="129" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-99290-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="130" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-100063-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="131" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-100832-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="132" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49061857-101550-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 670 leaves San Francisco  for Seattle.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="133" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-102367-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="134" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49061857-103089-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 670 leaves San Francisco  for Seattle.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="135" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-103905-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="136" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-104671-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="137" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49037434-105440-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="138" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-106183-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="139" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-106952-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="140" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-107755-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><
+Action.c(161): t=25319ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25320ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25320ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25326ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="141" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-108524-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="142" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-109300-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="143" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-110069-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="144" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490659302-1107781-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 780 leaves Seattle  for Sydney.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="145" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490659302-1115474-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1162 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 780 leaves Seattle  for Sydney.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="146" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-112337-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="147" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-113106-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="148" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-113875-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="149" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49041495-114645-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 385 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="150" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-115444-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="151" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-116213-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-13
+Action.c(161): t=25368ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25368ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25369ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25369ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     24)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="152" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-116992-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="153" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49053737-117761-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 901 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="154" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-118524-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="155" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-119294-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="156" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="4905780-12005-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 75 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 560 leaves Portland  for San Francisco.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="157" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="4905780-12082-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 75 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 560 leaves Portland  for San Francisco.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="158" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490700039-1215467-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1073 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 890 leaves Sydney  for Zurich.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="159" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="490700039-1223159-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 1073 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 890 leaves Sydney  for Zurich.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="160" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-123136-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="161" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49045584-123905-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 773 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="162" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-124678-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="to
+Action.c(161): t=25447ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25447ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     1000\r\n
+Action.c(161): t=25447ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     2000\r\n
+Action.c(161): t=25448ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     p">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="163" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="49049660-125447-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Firsrt class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 822 <BR/> (CC: x-1324)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 340 leaves Los Angeles  for Paris.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="164" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41148545-126209-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Aisle class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="165" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41148545-126978-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Aisle class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="166" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41148545-127747-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Aisle class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="167" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41148545-128517-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Aisle class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="168" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41148545-129286-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Aisle class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 723 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 010 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="169" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41152611-130038-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Window class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 499 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <!-- Flight #1 -->\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(161):     <b>\n
+Action.c(161):     <label><input type="checkbox" name="170" value="on" /></label></font></b>\n
+Action.c(161):     <input type="hidden" name="flightID" value="41152611-130807-jb"  />\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="45%" valign="top">\n
+Action.c(161):           <b>&nbsp;&nbsp;A Window class ticket for :</b><br/>\n
+Action.c(161):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(161):           <li><i>jojo bean\n
+Action.c(161):           <li><i></i>\n
+Action.c(161):           </td></tr></table></center>\n
+Action.c(161):       </TD>\n
+Action.c(161):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(161):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(161):           <center>\n
+Action.c(161):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(161):               jojo bean\n
+Action.c(161):     <br/>\n
+Action.c(161):               Perm<br/>\n
+Action.c(161):               614109<br/>\n
+Action.c(161):               <br/>\n
+Action.c(161):               Total Charge: $ 499 <BR/> (CC: x-1111)\n
+Action.c(161):           </td> </tr> </table>\n
+Action.c(161):           </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="3">\n
+Action.c(161):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(161):       09/22/2020\n
+Action.c(161):      :  8am : Flight 120 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     \n
+Action.c(161):     <TR bgcolor="#EFF2F7">\n
+Action.c(161):       <TD COLSPAN="4">\n
+Action.c(161):       <hr/>\n
+Action.c(161):       </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     <TR>\n
+Action.c(161):        <TD align="center" COLSPAN="4">\n
+Action.c(161):        <b>A total of 170 scheduled flights.</font></b>\n
+Action.c(161):        </TD>\n
+Action.c(161):     </TR>\n
+Action.c(161):     </TABLE>\n
+Action.c(161):     \n
+Action.c(161):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(161):     <TR>\n
+Action.c(161):     <TD align="left" width="50%" >\n
+Action.c(161):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(161):     er="0" /></TD>\n
+Action.c(161):     <TD align="right" width="50%" >\n
+Action.c(161):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(161):     f" border="0" /></TD>\n
+Action.c(161):     </TABLE>\n
+Action.c(161):     \n
+Action.c(161):     <div><input type="hidden" name=".cgifields" value="127"  /><input type="hidden" name=".cgi
+Action.c(161):     fields" value="32"  /><input type="hidden" name=".cgifields" value="90"  /><input type="hi
+Action.c(161):     dden" name=".cgifields" value="118"  /><input type="hidden" name=".cgifields" value="71"  
+Action.c(161):     /><input type="hidden" name=".cgifields" value="102"  /><input type="hidden" name=".cgifie
+Action.c(161):     lds" value="18"  /><input type="hidden" name=".cgifields" value="125"  /><input type="hidd
+Action.c(161):     en" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="44"  /><
+Action.c(161):     input type="hidden" name=".cgifields" value="55"  /><input type="hidden" name=".cgifields"
+Action.c(161):      value="84"  /><input type="hidden" name=".cgifields" value="27"  /><input type="hidden" n
+Action.c(161):     ame=".cgifields" value="161"  /><input type="hidden" name=".cgifields" value="95"  /><inpu
+Action.c(161):     t type="hidden" name=".cgifields" value="57"  /><input type="hidden" name=".cgifields" val
+Action.c(161):     ue="20"  /><input type="hidden" name=".cgifields" value="163"  /><input type="hidden" name
+Action.c(161):     =".cgifields" value="109"  /><input type="hidden" name=".cgifields" value="151"  /><input 
+Action.c(161):     type="hidden" name=".cgifields" value="89"  /><input type="hidden" name=".cgifields" value
+Action.c(161):     ="148"  /><input type="hidden" name=".cgifields" value="31"  /><input type="hidden" name="
+Action.c(161):     .cgifields" value="35"  /><input type="hidden" name=".cgifields" value="11"  /><input type
+Action.c(161):     ="hidden" name=".cgifields" value="78"  /><input type="hidden" name=".cgifields" value="93
+Action.c(161):     "  /><input type="hidden" name=".cgifields" value="106"  /><input type="hidden" name=".cgi
+Action.c(161):     fields" value="157"  /><input type="hidden" name=".cgifields" value="65"  /><input type="h
+Action.c(161):     idden" name=".cgifields" value="29"  /><input type="hidden" name=".cgifields" value="138" 
+Action.c(161):      /><input type="hidden" name=".cgifields" value="114"  /><input type="hidden" name=".cgifi
+Action.c(161):     elds" value="58"  /><input type="hidden" name=".cgifields" value="153"  /><input type="hid
+Action.c(161):     den" name=".cgifields" value="15"  /><input type="hidden" name=".cgifields" value="137"  /
+Action.c(161):     ><input type="hidden" name=".cgifields" value="81"  /><input type="hidden" name=".cgifield
+Action.c(161):     s" value="60"  /><input type="hidden" name=".cgifields" value="101"  /><input type="hidden
+Action.c(161):     " name=".cgifields" value="73"  /><input type="hidden" name=".cgifields" value="86"  /><in
+Action.c(161):     put type="hidden" name=".cgifields" value="76"  /><input type="hidden" name=".cgifields" v
+Action.c(161):     alue="62"  /><input type="hidden" name=".cgifields" value="67"  /><input type="hidden" nam
+Action.c(161):     e=".cgifields" value="165"  /><input type="hidden" name=".cgifields" value="139"  /><input
+Action.c(161):      type="hidden" name=".cgifields" value="129"  /><input type="hidden" name=".cgifields" val
+Action.c(161):     ue="2"  /><input type="hidden" name=".cgifields" value="17"  /><input type="hidden" name="
+Action.c(161):     .cgifields" value="110"  /><input type="hidden" name=".cgifields" value="82"  /><input typ
+Action.c(161):     e="hidden" name=".cgifields" value="147"  /><input type="hidden" name=".cgifields" value="
+Action.c(161):     168"  /><input type="hidden" name=".cgifields" value="135"  /><input type="hidden" name=".
+Action.c(161):     cgifields" value="14"  /><input type="hidden" name=".cgifields" value="112"  /><input type
+Action.c(161):     ="hidden" name=".cgifields" value="69"  /><input type="hidden" name=".cgifields" value="14
+Action.c(161):     5"  /><input type="hidden" name=".cgifields" value="49"  /><input type="hidden" name=".cgi
+Action.c(161):     fields" value="24"  /><input type="hidde
+Action.c(161): Notify: Saving Parameter "flight_numbers = 170 ".
+Action.c(161): t=25483ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     559\r\n
+Action.c(161): t=25483ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     \r\n
+Action.c(161):     0\r\n
+Action.c(161):     \r\n
+Action.c(161): t=25484ms: 5838-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=25)
+Action.c(161):     n" name=".cgifields" value="140"  /><input type="hidden" name=".cgifields" value="124"  />
+Action.c(161):     <input type="hidden" name=".cgifields" value="104"  /><input type="hidden" name=".cgifield
+Action.c(161):     s" value="131"  /><input type="hidden" name=".cgifields" value="121"  /><input type="hidde
+Action.c(161):     n" name=".cgifields" value="79"  /><input type="hidden" name=".cgifields" value="154"  /><
+Action.c(161):     input type="hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields"
+Action.c(161):      value="96"  /><input type="hidden" name=".cgifields" value="126"  /><input type="hidden" 
+Action.c(161):     name=".cgifields" value="159"  /><input type="hidden" name=".cgifields" value="160"  /><in
+Action.c(161):     put type="hidden" name=".cgifields" value="47"  /><input type="hidden" name=".cgifields" v
+Action.c(161):     alue="8"  /><input type="hidden" name=".cgifields" value="98"  /><input type="hidden" name
+Action.c(161):     =".cgifields" value="37"  /><input type="hidden" name=".cgifields" value="117"  /><input t
+Action.c(161):     ype="hidden" name=".cgifields" value="43"  /><input type="hidden" name=".cgifields" value=
+Action.c(161):     "5"  /><input type="hidden" name=".cgifields" value="170"  /><input type="hidden" name=".c
+Action.c(161):     gifields" value="33"  /><input type="hidden" name=".cgifields" value="21"  /><input type="
+Action.c(161):     hidden" name=".cgifields" value="63"  /><input type="hidden" name=".cgifields" value="7"  
+Action.c(161):     /><input type="hidden" name=".cgifields" value="26"  /><input type="hidden" name=".cgifiel
+Action.c(161):     ds" value="80"  /><input type="hidden" name=".cgifields" value="119"  /><input type="hidde
+Action.c(161):     n" name=".cgifields" value="99"  /><input type="hidden" name=".cgifields" value="162"  /><
+Action.c(161):     input type="hidden" name=".cgifields" value="72"  /><input type="hidden" name=".cgifields"
+Action.c(161):      value="74"  /><input type="hidden" name=".cgifields" value="61"  /><input type="hidden" n
+Action.c(161):     ame=".cgifields" value="108"  /><input type="hidden" name=".cgifields" value="115"  /><inp
+Action.c(161):     ut type="hidden" name=".cgifields" value="92"  /><input type="hidden" name=".cgifields" va
+Action.c(161):     lue="103"  /><input type="hidden" name=".cgifields" value="10"  /><input type="hidden" nam
+Action.c(161):     e=".cgifields" value="113"  /><input type="hidden" name=".cgifields" value="152"  /><input
+Action.c(161):      type="hidden" name=".cgifields" value="142"  /><input type="hidden" name=".cgifields" val
+Action.c(161):     ue="91"  /><input type="hidden" name=".cgifields" value="167"  /><input type="hidden" name
+Action.c(161):     =".cgifields" value="48"  /><input type="hidden" name=".cgifields" value="107"  /><input t
+Action.c(161):     ype="hidden" name=".cgifields" value="87"  /><input type="hidden" name=".cgifields" value=
+Action.c(161):     "77"  /><input type="hidden" name=".cgifields" value="133"  /><input type="hidden" name=".
+Action.c(161):     cgifields" value="149"  /><input type="hidden" name=".cgifields" value="123"  /><input typ
+Action.c(161):     e="hidden" name=".cgifields" value="50"  /><input type="hidden" name=".cgifields" value="3
+Action.c(161):     9"  /><input type="hidden" name=".cgifields" value="64"  /><input type="hidden" name=".cgi
+Action.c(161):     fields" value="97"  /><input type="hidden" name=".cgifields" value="12"  /><input type="hi
+Action.c(161):     dden" name=".cgifields" value="41"  /><input type="hidden" name=".cgifields" value="52"  /
+Action.c(161):     ><input type="hidden" name=".cgifields" value="56"  /><input type="hidden" name=".cgifield
+Action.c(161):     s" value="45"  /><input type="hidden" name=".cgifields" value="66"  /><input type="hidden"
+Action.c(161):      name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" value="54"  /><inp
+Action.c(161):     ut type="hidden" name=".cgifields" value="70"  /><input type="hidden" name=".cgifields" va
+Action.c(161):     lue="68"  /><input type="hidden" name=".cgifields" value="166"  /><input type="hidden" nam
+Action.c(161):     e=".cgifields" value="1"  /><input type="hidden" name=".cgifields" value="136"  /><input t
+Action.c(161):     ype="hidden" name=".cgifields" value="88"  /><input type="hidden" name=".cgifields" value=
+Action.c(161):     "116"  /><input type="hidden" name=".cgifields" value="144"  /><input type="hidden" name="
+Action.c(161):     .cgifields" value="141"  /><input type="hidden" name=".cgifields" value="30"  /><input typ
+Action.c(161):     e="hidden" name=".cgifields" value="100"  /><input type="hidden" name=".cgifields" value="
+Action.c(161):     25"  /><input type="hidden" name=".cgifields" value="128"  /><input type="hidden" name=".c
+Action.c(161):     gifields" value="28"  /><input type="hidden" name=".cgifields" value="120"  /><input type=
+Action.c(161):     "hidden" name=".cgifields" value="156"  /><input type="hidden" name=".cgifields" value="13
+Action.c(161):     4"  /><input type="hidden" name=".cgifields" value="40"  /><input type="hidden" name=".cgi
+Action.c(161):     fields" value="75"  /><input type="hidden" name=".cgifields" value="83"  /><input type="hi
+Action.c(161):     dden" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" value="150"  
+Action.c(161):     /><input type="hidden" name=".cgifields" value="155"  /><input type="hidden" name=".cgifie
+Action.c(161):     lds" value="130"  /><input type="hidden" name=".cgifields" value="53"  /><input type="hidd
+Action.c(161):     en" name=".cgifields" value="122"  /><input type="hidden" name=".cgifields" value="143"  /
+Action.c(161):     ><input type="hidden" name=".cgifields" value="158"  /><input type="hidden" name=".cgifiel
+Action.c(161):     ds" value="42"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hidden
+Action.c(161):     " name=".cgifields" value="46"  /><input type="hidden" name=".cgifields" value="13"  /><in
+Action.c(161):     put type="hidden" name=".cgifields" value="105"  /><input type="hidden" name=".cgifields" 
+Action.c(161):     value="6"  /><input type="hidden" name=".cgifields" value="85"  /><input type="hidden" nam
+Action.c(161):     e=".cgifields" value="36"  /><input type="hidden" name=".cgifields" value="3"  /><input ty
+Action.c(161):     pe="hidden" name=".cgifields" value="94"  /><input type="hidden" name=".cgifields" value="
+Action.c(161):     146"  /><input type="hidden" name=".cgifields" value="51"  /><input type="hidden" name=".c
+Action.c(161):     gifields" value="9"  /><input type="hidden" name=".cgifields" value="111"  /><input type="
+Action.c(161):     hidden" name=".cgifields" value="38"  /><input type="hidden" name=".cgifields" value="4"  
+Action.c(161):     /><input type="hidden" name=".cgifields" value="34"  /><input type="hidden" name=".cgifiel
+Action.c(161):     ds" value="169"  /><input type="hidden" name=".cgifields" value="164"  /><input type="hidd
+Action.c(161):     en" name=".cgifields" value="132"  /></div></form>\n
+Action.c(161):     \n
+Action.c(161):     </center>\n
+Action.c(161):     \n
+Action.c(161):     </body>\n
+Action.c(161):     </html>
+Action.c(161): Warning -26376: Requested parameter "flight_numbers" found in 2 different pages/frames. Use "web_reg_save_param" with more restrictive LB/RB/RelFrameId  	[MsgId: MWAR-26376]
+Action.c(161): Warning -26373: Parameter "flight_numbers" saved from a resource (URL="http://localhost:1080/cgi-bin/itinerary.pl")  	[MsgId: MWAR-26373]
+Action.c(161): web_submit_form("web_submit_form") highest severity level was "warning", 387514 body bytes, 512 header bytes, 758 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(170): Notify: Parameter Substitution: parameter "flight_numbers" =  "170 "
+Action.c(175): itinerary deleted
+Action.c(180): web_submit_data("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(180): t=25707ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=26)
+Action.c(180):     HTTP/1.1 200 OK\r\n
+Action.c(180):     Date: Tue, 22 Sep 2020 12:41:13 GMT\r\n
+Action.c(180):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(180):     Expires: Mon, 21 Sep 2020 12:41:13 GMT\r\n
+Action.c(180):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(180):     Connection: Keep-Alive\r\n
+Action.c(180):     Transfer-Encoding: chunked\r\n
+Action.c(180):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(180):     \r\n
+Action.c(180): t=25742ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=26)
+Action.c(180):     3a4\r\n
+Action.c(180): t=25742ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=26)
+Action.c(180):     \r\n
+Action.c(180): t=25743ms: 932-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=26)
+Action.c(180):     <!DOCTYPE html\n
+Action.c(180):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(180):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(180):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(180):     <head>\n
+Action.c(180):     <title>Flights List</title>\n
+Action.c(180):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(180):     </head>\n
+Action.c(180):     <body bgcolor="#E0E7F1">\n
+Action.c(180):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(180):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(180):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+Action.c(180):     </style><BR/><BR/><h1>&nbsp;&nbsp;<b>Itinerary</b></h1>\n
+Action.c(180):     <blockquote><P break>Unfortunately, we could not delete your entire itinerary because of a
+Action.c(180):      database synchronization error.  If you could please re-load your itinerary and try again
+Action.c(180):     , we would appreciate it.  Thank you for your patience.</blockquote>\n
+Action.c(180):     </body>\n
+Action.c(180):     </html>
+Action.c(180): t=25745ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=26)
+Action.c(180):     0\r\n
+Action.c(180):     \r\n
+Action.c(180): web_submit_data("itinerary.pl") was successful, 932 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(202): Notify: Transaction "delete_ticket" ended with a "Pass" status (Duration: 7.0973 Think Time: 5.0002 Wasted Time: 0.1194).
+Action.c(204): Notify: Transaction "Logout" started.
+Action.c(206): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(206): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+Action.c(206): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(208): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(208): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(211): Think time - Waiting 5.00 seconds (according to limit).
+Action.c(211): lr_think_time: 5.00 seconds (recorded think time was 28.00 seconds).
+Action.c(213): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(213): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(217): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(217): t=30922ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=27)
+Action.c(217):     HTTP/1.1 200 OK\r\n
+Action.c(217):     Date: Tue, 22 Sep 2020 12:41:18 GMT\r\n
+Action.c(217):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(217):     Set-Cookie: MSO=SID&1600778478; path=/\r\n
+Action.c(217):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 21-Sep-2020 12:41:18 GMT\r\n
+Action.c(217):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(217):     Connection: Keep-Alive\r\n
+Action.c(217):     Transfer-Encoding: chunked\r\n
+Action.c(217):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(217):     \r\n
+Action.c(217): t=30937ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=27)
+Action.c(217):     2ae\r\n
+Action.c(217): t=30937ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=27)
+Action.c(217):     \r\n
+Action.c(217): t=30938ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=27)
+Action.c(217):     <!-- \n
+Action.c(217):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(217):      Also, the server options have been loaded into the cookie called\n
+Action.c(217):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(217):      --->\n
+Action.c(217):     \n
+Action.c(217):     <html>\n
+Action.c(217):     <title>Web Tours</title>\n
+Action.c(217):        <!-- Frame Set -->\n
+Action.c(217):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(217):           <!-- Navigation Frame -->\n
+Action.c(217):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(217):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(217):           <!-- Home Frame -->\n
+Action.c(217):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(217):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(217):        </frameset>\n
+Action.c(217):     </html>\n
+Action.c(217):     \n
+Action.c(217):     </body>\n
+Action.c(217):     </html>
+Action.c(217): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(217): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(217): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(217): t=30941ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=29)
+Action.c(217):     <HTML>\n
+Action.c(217):     <HEAD>\n
+Action.c(217):     \t<title>Web Tours</title>\n
+Action.c(217):     </HEAD>\n
+Action.c(217):     <style>\n
+Action.c(217):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(217):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(217):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(217):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(217):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(217):     N: none}\n
+Action.c(217):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(217):     CORATION: underline}\n
+Action.c(217):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(217):     </style>\n
+Action.c(217):     <body bgcolor="#e0e7f1">\n
+Action.c(217):     <BR/>\n
+Action.c(217):     <BR/>\n
+Action.c(217):     <BR/>\n
+Action.c(217):     <br/>\n
+Action.c(217):     <table border="0">\n
+Action.c(217):     <tr><td></td></tr>\n
+Action.c(217):     <TR><TD></TD></TR>\n
+Action.c(217):     <TR><TD>\n
+Action.c(217):     <blockquote>\n
+Action.c(217):     <H1><b>Web Tours</b></H1>\n
+Action.c(217):     Welcome to the Web Tours site.\n
+Action.c(217):     <br/>\n
+Action.c(217):     To make reservations,please enter your account information to the left.\n
+Action.c(217):     <br/>\n
+Action.c(217):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(217):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(217):     <br/>\n
+Action.c(217):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(217):     tration</b></A> link.\n
+Action.c(217):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(217):     <br/><small>\n
+Action.c(217):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(217):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(217):     </small>\n
+Action.c(217):     </blockquote></TD>\n
+Action.c(217):     <TD></TD></TR>\n
+Action.c(217):     </table>\n
+Action.c(217):     </body>\n
+Action.c(217):     </HTML>\n
+Action.c(217): t=30946ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=27)
+Action.c(217):     0\r\n
+Action.c(217):     \r\n
+Action.c(217): t=31004ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=28)
+Action.c(217):     HTTP/1.1 200 OK\r\n
+Action.c(217):     Date: Tue, 22 Sep 2020 12:41:18 GMT\r\n
+Action.c(217):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(217):     Expires: Mon, 21 Sep 2020 12:41:18 GMT\r\n
+Action.c(217):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(217):     Connection: Keep-Alive\r\n
+Action.c(217):     Transfer-Encoding: chunked\r\n
+Action.c(217):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(217):     \r\n
+Action.c(217): t=31005ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=28)
+Action.c(217):     5cc\r\n
+Action.c(217): t=31006ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=28)
+Action.c(217):     \r\n
+Action.c(217): t=31007ms: 1484-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=28)
+Action.c(217):     <!DOCTYPE html\n
+Action.c(217):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(217):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(217):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(217):     <head>\n
+Action.c(217):     <title>Web Tours Navigation Bar</title>\n
+Action.c(217):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(217):     </head>\n
+Action.c(217):     <body bgcolor="#E0E7F1">\n
+Action.c(217):     <style>\n
+Action.c(217):     blockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(217):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(217):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(217):     small {font-family: tahoma; font-size : 8pt}\n
+Action.c(217):     </style>\n
+Action.c(217):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+Action.c(217):     <input type="hidden" name="userSession" value="129670.188578372zzzQQVApDcftAAVQptzVQf"/>\n
+Action.c(217):     <table border="0"><tr><td>&nbsp;</td>\n
+Action.c(217):     <td>&nbsp;</td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td>&nbsp;</td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td><small>&nbsp;Username</small></td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td><small>&nbsp;Password</small></td>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td>&nbsp;</td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td>\n
+Action.c(217):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(217):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(217):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(217):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(217):     </form>\n
+Action.c(217):     \n
+Action.c(217):     </body>\n
+Action.c(217):     </html>\n
+Action.c(217): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): t=31012ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=28)
+Action.c(217):     0\r\n
+Action.c(217):     \r\n
+Action.c(217): Registered web_reg_find successful for "Text= A Session ID has been created and loaded into a cookie called MSO." (count=1)  	[MsgId: MMSG-26364]
+Action.c(217): web_url("SignOff Button") was successful, 2170 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(227): Notify: Transaction "Logout" ended with a "Pass" status (Duration: 5,5158 Think Time: 5,0006 Wasted Time: 0,0727).
+Action.c(229): Notify: Transaction "UC_3_CancelReservation" ended with a "Pass" status (Duration: 30,9797 Think Time: 20,0004 Wasted Time: 0,6571).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 9372), ended OK."

@@ -1,0 +1,101 @@
+/* Move comment form to parent comment */
+function commentShowReplyForm(parentId, contentId)
+{
+    $('.comment .reply').removeClass('hidden');
+	$("#commentSaveMessage").hide();
+    var form = $('#commentFormContainer');
+    $('input[name="Comment[pcommentId]"]',form).val(parentId);
+    //$('input[name="Comment[contentId]"]',form).val(contentId);
+    $('#c'+parentId+' > .bdata > .reply').addClass('hidden');
+    $('#c'+parentId+' > .bdata > .commentRepFPlace').append(form);
+    form.show();
+    $('#Comment_text', form).focus(); //.val('')
+    return false;
+}
+
+/* Show main comment form at the bottom */
+function commentShowForm()
+{
+    $('.comment .reply').removeClass('hidden');
+	$("#commentSaveMessage").hide();
+    var form = $('#commentFormContainer');
+    $('input[name="Comment[pcommentId]"]',form).val(0);
+    //$('input[name="contentId"]',form).val(0);
+    $('#commentMFormPlace').append(form);
+    form.show();
+    $('#Comment_text',form).focus(); //.val('')
+    return false;
+}
+
+/* Click on OK button on message popup */
+function commentSaveMessageHide()
+{
+	$('#commentSaveMessage').hide();
+	return false;
+}
+
+function commentBeforeSendEvent()
+{
+	$("#commentSubmitBut").attr("disabled", true);
+	$("#commentSubmitBut").toggleClass("disabled");
+	$('textarea[name="Comment[text]"]').attr("disabled", true);
+	$('input[name="Comment[userName]"]').attr("disabled", true);
+	$('#commentAjaxErrors').hide();
+	$("#commentSubmitBut").attr("value", "Сохранение...");
+}
+
+function commentSuccessEvent(data)
+{
+	console.log(data);
+	if (data.status == "success") {
+		$('textarea[name="Comment[text]"]').val("");
+		$('input[name="Comment[userName]"]').val("");
+		if (data.commentViewRender == 'guest')
+			$("#commentSaveMessage").show();
+		else { // Show new comment
+			if (data.level > 0) {
+				if (data.bottomChildId == 0)
+					$('#commentFormContainer').closest('.comment').after(data.commentViewRender);
+				else {
+					$('#c'+data.bottomChildId).removeClass('leaf');
+					$('#c'+data.bottomChildId).after(data.commentViewRender);
+				}
+				if (data.pcommentId > 0) // Remove leaf from parent
+					$('#c'+data.pcommentId).removeClass('leaf');
+				commentShowForm();
+			} else
+				$('#newCommentPlace').before(data.commentViewRender);
+			$('#nocomments').remove();
+			location.href = '#c' + data.commentId;
+		}
+	} else {
+		var s = ''
+		$.each(data, function(key, val) {
+			s += val + '<br/>';
+		});
+		$('#commentAjaxErrors').html(s);
+		$('#commentAjaxErrors').show();
+	}
+
+	$('textarea[name="Comment[text]"]').attr("disabled", false);
+	$('input[name="Comment[userName]"]').attr("disabled", false);
+	$("#commentSubmitBut").attr("value", "Отправить комментарий");
+	$("#commentSubmitBut").toggleClass("disabled");
+	$("#commentSubmitBut").attr("disabled", false);
+
+}
+
+/* Document ready function */
+$(document).ready(function()
+{
+    var $commentForm = $('#commentFormContainer');
+    $('#Comment_text').on('keyup change blur focus', null,
+	    function(e)
+	    {
+	        if ($(this).val().trim().length > 0)
+	            $('#commentSubmitBut', $commentForm).attr('disabled', false).removeClass('disabled');
+	        else
+	            $('#commentSubmitBut', $commentForm).attr('disabled', true).addClass('disabled');
+	    }
+    );
+});

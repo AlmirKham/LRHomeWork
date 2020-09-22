@@ -1,0 +1,26 @@
+290
+<div class="m-1">
+  <div class="mb-1 ">Username A is not available.
+  </div>
+    <div class="js-suggested-usernames-container ">
+        
+        <span >
+          A-rgb,
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="A-rgb">
+        
+        <span >
+          A-netizen,
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="A-netizen">
+        or
+        <span >
+          A35
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="A35">
+      are available.
+    </div>
+</div>
+
+0
+

@@ -1,0 +1,26 @@
+2a8
+<div class="m-1">
+  <div class="mb-1 ">Username Almir is not available.
+  </div>
+    <div class="js-suggested-usernames-container ">
+        
+        <span >
+          Almir-beep,
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="Almir-beep">
+        
+        <span >
+          Almir-afk,
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="Almir-afk">
+        or
+        <span >
+          Almir583
+        </span>
+        <input type="hidden" class="js-suggested-username" name="suggested_usernames[]" value="Almir583">
+      are available.
+    </div>
+</div>
+
+0
+

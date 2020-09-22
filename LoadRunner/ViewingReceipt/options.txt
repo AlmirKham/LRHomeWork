@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Almir\Documents\VuGen\Scripts\ViewingReceipt
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\almir\documents\vugen\scripts\viewingreceipt\\logfile.log
+c:\users\almir\documents\vugen\scripts\viewingreceipt\\combined_ViewingReceipt.c
+c:\users\almir\documents\vugen\scripts\viewingreceipt\\pre_cci.c

@@ -1,0 +1,348 @@
+if (window.vk && vk.id && window.dApi && dApi.access_token) setTimeout(function(){dApi.call('stats.trackVisitor',{},function(){})},2500);
+
+if (vBuild < 161021){
+	// Фикс кастомного фона
+   vkopt.messages.css_msg_bg = function(color){
+      return vk_lib.get_block_comments(function(){
+         /*css:
+         .vk_old_unread_msg .nim-dialog.nim-dialog_classic.nim-dialog_unread-out .nim-dialog--inner-text,
+         .vk_old_unread_msg .nim-dialog.nim-dialog_classic.nim-dialog_unread-out.nim-dialog_muted .nim-dialog--inner-text,
+         .vk_old_unread_msg .nim-dialog:not(.nim-dialog_deleted).nim-dialog_unread,
+         ._vk_old_unread_msg .nim-dialog.nim-dialog_unread-out,
+         .vk_old_unread_msg .im-mess.im-mess_unread,
+         .vk_old_unread_msg .im-mess.im-mess_unread+.im-mess:before,
+         .vk_old_unread_msg .im-mess.im-mess_unread:last-child:before,
+         .vk_old_unread_msg .fc_msgs_unread {
+            background: #{colorMsgBgUnread} !important;
+         }
+         .vk_old_unread_msg .nim-dialog.nim-dialog_unread-out:not(.nim-dialog_failed) .nim-dialog--unread {
+            display: none;
+         }
+         */
+      }).css.replace(new RegExp("{colorMsgBgUnread}", 'g'), color);
+   }
+	vkopt.messages.onOptionChanged('old_unread_msg_bg',vkopt.settings.get('old_unread_msg_bg'));
+}
+if (vBuild < 161024){ //фикс поиска по группам
+   vkopt.groups.tpls['wiki_owner_list_btn'] = '<a id="vk_wiki_links" href="#" onclick="vkopt.groups.wiki_list.show(cur.oid); return false;" class="ui_rmenu_item" role="listitem"><span>{lng.WikiPagesList}</span></a>';
+}
+
+if (vBuild < 161025){ // фикс скачивания видео
+   Inj.Start('vkopt.videoview.on_player_data','if (!mvcur.player){setTimeout(vkopt.videoview.on_player_data, 300); return;} vars = mvcur.player.getVars();');
+}
+
+if (vBuild < 170219){
+   // фикс обработки последнего аудио в списке
+   Inj.Before('vkopt.audio.check_dl_url','var to_load','end = Math.min(start + 5, hq.length) - start;')
+
+   // фикс кастомного фона непрочитанных исходящих в новом интерфейсе диалогов
+   vkopt.messages.css_msg_bg = function(color){
+      return vk_lib.get_block_comments(function(){
+         /*css:
+         .vk_old_unread_msg .nim-dialog.nim-dialog_classic.nim-dialog_unread-out .nim-dialog--inner-text,
+         .vk_old_unread_msg .ui_scroll_container .nim-dialog.nim-dialog_unread-out .nim-dialog--text-preview,
+         .vk_old_unread_msg .nim-dialog.nim-dialog_classic.nim-dialog_unread-out.nim-dialog_muted .nim-dialog--inner-text,
+         .vk_old_unread_msg .nim-dialog:not(.nim-dialog_deleted).nim-dialog_unread,
+         ._vk_old_unread_msg .nim-dialog.nim-dialog_unread-out,
+         .vk_old_unread_msg .im-mess.im-mess_unread,
+         .vk_old_unread_msg .im-mess.im-mess_unread+.im-mess:before,
+         .vk_old_unread_msg .im-mess.im-mess_unread:last-child:before,
+         .vk_old_unread_msg .fc_msgs_unread {
+            background: #{colorMsgBgUnread} !important;
+         }
+         .vk_old_unread_msg .nim-dialog.nim-dialog_unread-out:not(.nim-dialog_failed) .nim-dialog--unread {
+            display: none;
+         }
+         */
+      }).css.replace(new RegExp("{colorMsgBgUnread}", 'g'), color);
+   }
+   if (vkopt.set_css && vkopt.settings.get('old_unread_msg')){
+      var code = vkopt.messages.css_msg_bg(vkopt.settings.get('old_unread_msg_bg'));
+      vkopt.set_css(code, 'vk_unread_msg_preview');
+   }
+}
+
+if ((vBuild < 170502) && vkopt.set_css){
+   vkopt.set_css('.vk_compact_audio .audio_pl_edit_box .ape_audio_item_wrap .ape_attach{margin-top: 3px;}', 'vkopt_fix_170502');
+}
+
+if (vBuild < 170823)
+   Inj.Before('ElementTooltip.prototype.show',/this\.updatePosition\(\);/,'(!this._firstTimeShown && vkopt_core.plugins.eltt_first_show(this));\n');
+
+if (vBuild < 170911){
+   vkopt['fix_save_dlg_btns'] = {
+      onLibFiles: function(fn){
+         if (fn != 'ui_common.js') return;
+         Inj.End('uiActionsMenu.show', function(el){
+            if (gpeByClass('_im_dialog_action_wrapper', el))
+               vkopt.messages.acts_menu();
+         })
+      }
+   };
+   vkopt_core.plugins.delayed_run('fix_save_dlg_btns');
+}
+
+if (vBuild < 171013)
+   Inj.Replace('vkopt.videoview.check_show_args', 'args[6]','args[5]');
+
+if (vBuild < 180114){
+    var fix180114 = function(){
+        Inj.Start('Videoview.showVideo', function(){
+           vkopt.videoview.on_show(arguments);
+        });
+    }
+    if (window.Videoview && Videoview.showVideo.inj_func_original){
+       Videoview.showVideo.inj_func_main = Videoview.showVideo.inj_func_original
+       fix180114();
+    }
+   vkopt.videoview.onLibFiles = function(fn){
+      if (fn == 'videoview.js'){
+         fix180114();
+      }
+   }
+}
+if (vBuild < 180626)
+   window.Nav = nav;
+
+if (vBuild < 180717){
+   vkopt.wall.poll_btns = function(p){
+      var votingEl=geByClass('media_voting',p)[0];
+      var c=geByClass('ui_actions_menu_item',votingEl)[0];
+
+      if (!votingEl || !c) return;
+
+      var id = domData(votingEl, 'id'),
+          oid = domData(votingEl, 'owner-id'),
+          board = domData(votingEl, 'board'),
+          post_id = domData(votingEl.parentNode, 'post-raw');
+
+      var res_btn =  se(vk_lib.tpl_process(vkopt.wall.tpls['results_btn'],{
+         owner_id: oid,
+         poll_id:  id,
+         post_id:  post_id
+      }));
+      c.parentNode.appendChild(res_btn);
+   }
+}
+
+if (vBuild < 180727){
+   if (window.getTemplate && getTemplate.inj_func_original)
+      getTemplate=getTemplate.inj_func_original;
+   vk_glue.inj.common=function(){
+      Inj.BeforeR("stManager.add",/__stm._waiters.push\(\[([^,]+)/,"__stm._waiters.push([$1, vk_glue.inj_handler(#ARG0#)]);");
+      Inj.End('nav.setLoc',function(){
+         if (arguments[1]!="vkopt")
+            setTimeout(vk_glue.nav_handler,2);
+      });
+      Inj.Start('ajax._post',
+      function(url, query, options){
+          // Mod callback:
+          var ctx = this;
+          if (ctx.__ARG2__.onDone){
+              var onDoneOrig = ctx.__ARG2__.onDone;
+              ctx.__ARG2__.onDone = function(){
+                  var argarr = Array.prototype.slice.call(arguments);
+                  vk_glue.response_handler(argarr, ctx.__ARG0__, ctx.__ARG1__);
+
+                  onDoneOrig.apply(window, argarr);
+              }
+          }
+      }
+      );
+      Inj.Start('ajax.framegot','if (#ARG1#) #ARG1#=vk_glue.process_on_framegot(#ARG1#);');
+      Inj.Start('ajax.post','if (vk_glue.process_on_post(#ARG0#, #ARG1#, #ARG2#) === false) return;');
+   };
+
+}
+
+
+if (vBuild < 180810){
+   Inj.Wrap=function(func){var src_func=Inj.GetFunc(func);var fn_path=('window.'+func).match(/(.+)\.([^\.]+)/);if(Inj.Wrapped(src_func))return src_func;var wrapper=function func_wrapper(){var i,res,result,before=func_wrapper.inj_handlers.before,after=func_wrapper.inj_handlers.after,args=Array.prototype.slice.call(arguments),obj={args:args,prevent:!1,prevent_all:!1,return_result:undefined,wrapper:func_wrapper,this_obj:this};for(i=0;i<args.length;i++)obj['__ARG'+i+'__']=args[i];for(i=0;i<before.length;i++)obj.prevent_all||(before[i].apply(obj,args),obj.prevent_all&&(res=obj.return_result));for(obj.prevent||(result=func_wrapper.inj_func_main.apply(this,args)),obj.result=result,i=0;i<after.length;i++)obj.prevent_all||(after[i].apply(obj,args),obj.prevent_all&&(res=obj.return_result));return res||result;};return wrapper.add=function(type,fn){var hash=vk_lib.crc(fn.toString());return wrapper.inj_handlers[type+'_hashes'].indexOf(hash)==-1?(wrapper.inj_handlers[type].push(fn),wrapper.inj_handlers[type+'_hashes'].push(hash),!0):!1;},wrapper.add_before=function(fn){return wrapper.add('before',fn);},wrapper.add_after=function(fn){return wrapper.add('after',fn);},wrapper.inj_src_path=fn_path[1],wrapper.inj_func_original=src_func,wrapper.inj_func_main=src_func,wrapper.inj_handlers={before:[],before_hashes:[],after:[],after_hashes:[]},eval(fn_path[1])[fn_path[2]]=wrapper,wrapper;};
+   vk_glue.inj.ett_inj = function(){
+      Inj.Start('ElementTooltip.prototype.show', function(){
+         var handle = function(){
+            vkopt_core.plugins.eltt_first_show(this);
+         }
+         var obj = this.this_obj;
+         if (obj._opts){
+            if (obj._opts.onFirstTimeShow){
+               var orig = obj._opts.onFirstTimeShow;
+               obj._opts.onFirstTimeShow = function(){
+                  var args = Array.prototype.slice.call(arguments);
+                  handle.apply(obj, args);
+                  orig.apply(obj, args);
+               }
+            } else {
+               obj._opts.onFirstTimeShow = handle;
+            }
+         }
+      });
+   };
+   if (window.ElementTooltip && ElementTooltip.prototype.show.inj_func_original){
+      ElementTooltip.prototype.show = ElementTooltip.prototype.show.inj_func_original;
+      vk_glue.inj.ett_inj();
+   }
+
+   vk_glue.inj.common = function(){
+         Inj.BeforeR("stManager.add",/__stm._waiters.push\(\[([^,]+)/,"__stm._waiters.push([$1, vk_glue.inj_handler(#ARG0#)]);");
+         Inj.End('nav.setLoc',function(){
+            if (arguments[1]!="vkopt")
+               setTimeout(vk_glue.nav_handler,2);
+         });
+         Inj.Start('ajax._post',
+         function(url, query, options){
+             var ctx = this;
+             if (ctx.__ARG2__.onDone){
+                 var onDoneOrig = ctx.__ARG2__.onDone;
+                 ctx.__ARG2__.onDone = function(){
+                     var argarr = Array.prototype.slice.call(arguments);
+                     vk_glue.response_handler(argarr, ctx.__ARG0__, ctx.__ARG1__);
+                     onDoneOrig.apply(window, argarr);
+                 }
+             }
+         }
+         );
+         Inj.Start('ajax.framegot','if (#ARG1#) #ARG1#=vk_glue.process_on_framegot(#ARG1#);');
+         Inj.Start('ajax.post','if (vk_glue.process_on_post(#ARG0#, #ARG1#, #ARG2#) === false) return;');
+         Inj.End('getTemplate',function(tplName, state){
+            if (this.result){
+               this.return_result = vk_glue.tpl_hook(this.result, tplName, state)
+               this.prevent_all = true;
+            }
+         })
+         vk_glue.inj.ett_inj();
+      };
+}
+
+
+if (vBuild < 180928){
+   vkopt.set_css('\
+   .vk_menu .body_im #page_wrap #side_bar.side_bar{overflow-y: hidden;}\
+   .vk_block_mark_read_btn .vk_msg_info_icon,\
+   .vk_block_mark_read_btn ._im_dialogs_settings .msg_mark_read_icon{margin: 14px 14px 14px 5px;}\
+   .vk_block_mark_read_btn .im-page .im-page--dialogs-settings{}\
+   .vk_block_mark_read_btn ._im_dialogs_settings .msg_mark_read_icon{margin-top:11px}\
+   ', 'fixes180928') // fix /im scroll
+}
+if (vBuild < 181220){
+   if (!window.__stm && window.stManager)
+      window.__stm = stManager;
+}
+
+if (vBuild < 190218){
+   vkopt['fix_audio_ads_bug'] = {
+      onLibFiles: function(fn){
+         vkopt.face.ad_block.audio = function(){};
+         if (fn == 'audioplayer.js')
+            setTimeout(function(){
+               if (AudioPlayer.prototype._adsIsAllowed.inj_func_original){
+                  AudioPlayer.prototype._adsIsAllowed = AudioPlayer.prototype._adsIsAllowed.inj_func_original;
+                  Inj.Start('AudioPlayer.prototype._adsIsAllowed',function(){
+                     if (!vkopt.settings.get("ad_block")) return;
+                     this.prevent = true;
+                     this.prevent_all = true;
+                     this.return_result = {
+                        type: AudioPlayer.ADS_ALLOW_DISABLED
+                     }
+                  });
+               }
+            },300)
+      }
+   }
+   vkopt_core.plugins.delayed_run('fix_audio_ads_bug');
+}
+
+if (vBuild < 190225 && window.StaticFiles){
+   for (var key in StaticFiles){
+      if (StaticFiles[key].t == 'js'){
+         if (StaticFiles[key].l)
+            vk_glue.inj_to_file(key.split('/').pop(), key);
+         else
+            window.stManager && stManager._waiters.push([[key], vk_glue.inj_handler([key])]);
+      }
+   }
+}
+
+if (vBuild < 190608 && !dApi.call.fixed){
+   var src_api_call = dApi.call;
+   dApi.call = function(){
+      var args = Array.prototype.slice.call(arguments);
+      var params = args[1] || {};
+      if (!params['v'])
+         params['v'] = '5.95';
+      args[1] = params;
+      src_api_call.apply(this, args);
+   }
+   dApi.call.fixed = true;
+}
+
+if (vBuild < 190814){
+  vkopt.photoview.move_comments_block.inj = function(){}  // disable wrong injections
+}
+
+if (vBuild < 191116){
+  (function(){
+    if (!vkopt.vk_dislike.get_dislikes_orig){
+      vkopt.vk_dislike.get_dislikes_orig = vkopt.vk_dislike.get_dislikes
+      vkopt.vk_dislike.get_dislikes = function(){};
+    }
+    //var load_info = vkopt.vk_dislike.get_dislikes;
+    var load_info = vkopt.vk_dislike.get_dislikes_orig;
+    var load = debounce(load_info, 700);
+
+    vkopt.vk_dislike.mouseover = function(e){
+      var pathLength = function (el, p, limit){
+        var i = 0;
+        while ((el = el.parentNode) && el != p)
+          i++;
+        return i;
+      }
+      var getDislikeId = function (parent){
+        var el = domQuery1('*[dislike_id]', parent);
+        return el ? [ el.getAttribute('dislike_id') ] : [];
+      }
+
+      var el = e.target;
+
+      var rx = /dislike_wrap|mv_dislike_wrap|wk_dislike_wrap|pv_dislike_wrap|post_dislike|has_dislike/
+      if (rx.test(el.className || '')) {
+        load(getDislikeId(el.parentNode));
+      }
+
+      if (el.parentNode && rx.test(el.parentNode.className || '')){
+        load(getDislikeId(el.parentNode.parentNode));
+      }
+      var els = geByClass('has_dislike', el);
+      if (els.length == 1 && pathLength(els[0], el) < 4){
+        load(getDislikeId(el));
+      }
+    }
+
+    if (!vkopt.vk_dislike.is_enabled()) return;
+    addEvent(document, 'mouseover', vkopt.vk_dislike.mouseover);
+  })();
+}
+
+if (vBuild < 191202){
+   vk_glue.inj_handler = function(files){
+      return function(no_pending){
+         if (no_pending)
+            console.log('no need inject?', files);
+         if (!isArray(files)) files = [files];
+         for (var i in files){
+            if (isString(files[i]) && files[i].indexOf('.js') != -1)
+               vk_glue.inj_to_file(files[i].split('/').pop().replace(/\.[a-f0-9]{20}/,''), files[i]);
+         }
+      }
+   }
+}
+if (vBuild < 191216){
+   Inj.Before('vkopt.photos.update_photo', /var\s*msg\s*=\s*'';/, "new_size = new_size || {}; source_size = source_size || {};");
+}
+if (vBuild < 200126){
+   Inj.After("vkopt.audl.decode_url","var tmp = {};", "var n = function(){}; tmp.removeAttribute = n; tmp.setAttribute = n; tmp.getAttribute = n;");
+}
+
+if (vBuild < 200519) {
+   Inj.Replace('vkopt.videoview.update_dl_btn',/mv_top_controls/g, 'VideoLayerInfo__topControls');
+}
