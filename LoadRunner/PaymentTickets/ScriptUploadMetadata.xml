@@ -13,6 +13,13 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="PaymentTickets.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_PaymentTickets.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="103889681440.idx" Filter="1" />
+    <FileEntry Name="129851813440.idx" Filter="1" />
+    <FileEntry Name="144235505440.idx" Filter="1" />
+    <FileEntry Name="201104438440.idx" Filter="1" />
+    <FileEntry Name="44306246440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -38,6 +45,8 @@
     <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="PaymentTickets.c.pickle" Filter="1" />
+    <FileEntry Name="PaymentTickets.ci" Filter="1" />
     <FileEntry Name="PaymentTickets.prm.bak" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
